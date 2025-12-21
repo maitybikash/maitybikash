@@ -26,17 +26,17 @@
   <p><b>📊 GitHub Stats</b></p>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MaityBikash&show_icons=true&theme=highcontrast&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=maitybikash&show_icons=true&theme=highcontrast&hide_border=true"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaityBikash&layout=compact&theme=highcontrast&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
     alt="Top Languages"
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=MaityBikash&theme=highcontrast&hide_border=true"
+    src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true"
     alt="GitHub Streak"
   />
 </div>
