@@ -33,7 +33,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
     alt="Top Languages" />
 
-  <img src="https://streak-stats.demolab.com?user=MaityBikash&theme=highcontrast&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=MaityBikash&theme=highcontrast&hide_border=true" />
 </div>
 
 ---
