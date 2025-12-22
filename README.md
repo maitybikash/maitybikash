@@ -3,8 +3,6 @@
   <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" width="350" />
 </div>
 
----
-
 <!-- Tech Stack -->
 <div align="center">
   <p><b>💻 Tech Stack</b></p>
@@ -18,8 +16,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Docker-46A2F1?style=flat-square&logo=docker&logoColor=white" />
 </div>
-
----
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -37,8 +33,6 @@
     src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true&cache_seconds=86400"
     height="165" />
 </div>
-
----
 
 <!-- Contact Me -->
 <div align="center">
