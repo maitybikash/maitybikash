@@ -34,7 +34,8 @@
     alt="Top Languages" />
 
   <img 
-    src="https://streak-stats.demolab.com?user=MaityBikash&theme=highcontrast&hide_border=true" />
+  src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true&cache_seconds=86400" /> 
+  
 </div>
 
 ---
