@@ -5,6 +5,19 @@
 
 <br/>
 
+<!-- About Me -->
+<div align="center">
+  <p><b>🧑‍💻 About Me</p></b>
+    
+  <p>
+    I build <b>Telegram bots</b>, <b>automation tools</b>, and <b>backend services</b><br/>
+    using <b>Python & Pyrogram</b>.  
+    I love clean code, scalable systems, and premium UI/UX.
+  </p>
+</div>
+
+<br />
+
 <!-- Tech Stack -->
 <div align="center">
   <p><b>💻 Tech Stack</b></p>
