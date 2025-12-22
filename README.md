@@ -3,7 +3,7 @@
   <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" width="350" />
 </div>
 
-<br/>
+---
 
 <!-- Tech Stack -->
 <div align="center">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Docker-46A2F1?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
-<br/>
+---
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -38,7 +38,7 @@
     height="165" />
 </div>
 
-<br/>
+---
 
 <!-- Contact Me -->
 <div align="center">
