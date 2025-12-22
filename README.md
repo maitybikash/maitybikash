@@ -1,7 +1,9 @@
 <!-- Coder GIF -->
 <div align="center">
-  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" width="350" />
+  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="350" />
 </div>
+
+<br/><br/>
 
 <!-- Tech Stack -->
 <div align="center">
@@ -17,22 +19,26 @@
   <img src="https://img.shields.io/badge/Docker-46A2F1?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
+<br/><br/>
+
 <!-- GitHub Stats -->
 <div align="center">
   <p><b>📊 GitHub Stats</b></p>
 
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=maitybikash&show_icons=true&theme=highcontrast&hide_border=true"
     height="165" />
 
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
     height="165" />
 
-  <img 
-    src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true&cache_seconds=86400"
+  <img
+    src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true"
     height="165" />
 </div>
+
+<br/><br/>
 
 <!-- Contact Me -->
 <div align="center">
