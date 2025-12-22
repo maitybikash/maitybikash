@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Railway-7B3FE4?style=flat-square&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Docker-46A2F1?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
@@ -33,6 +33,9 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
     height="165" />
 
+  <br/><br/>
+
+  <!-- STREAK (WORKING) -->
   <img
     src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true"
     height="165" />
