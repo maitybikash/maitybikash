@@ -3,10 +3,6 @@
   <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" width="350" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00FFAA&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Bikash+Maity;Python+%7C+Pyrogram+Developer;Telegram+Bot+Developer;Backend+%26+Automation+Enthusiast" />
-</div>
-
 ---
 
 <!-- Tech Stack -->
