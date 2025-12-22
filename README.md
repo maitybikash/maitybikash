@@ -33,8 +33,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
     height="165" />
 
-  <br/><br/>
-
   <img 
     src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true&cache_seconds=86400"
     height="165" />
