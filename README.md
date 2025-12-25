@@ -44,9 +44,11 @@
 
   <img
     src="https://github-readme-sigma-ten.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
-    height="170"
+    height="175"
   />
 </div>
+
+<br/>
 
 <!-- Contact Me -->
 <div align="center">
