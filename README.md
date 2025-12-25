@@ -44,7 +44,7 @@
 
   <img
     src="https://github-readme-sigma-ten.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
-    height="175"
+    height="165"
   />
 </div>
 
