@@ -7,8 +7,7 @@
 
 <!-- About Me -->
 <div align="center">
-  <p><b>🧑‍💻 About Me</p></b>
-    
+  <p><b>🧑‍💻 About Me</b></p>
   <p>
     I build <b>Telegram bots</b>, <b>automation tools</b>, and <b>backend services</b><br/>
     using <b>Python & Pyrogram</b>.  
@@ -16,7 +15,7 @@
   </p>
 </div>
 
-<br />
+<br/>
 
 <!-- Tech Stack -->
 <div align="center">
@@ -40,14 +39,23 @@
 
   <img
     src="https://github-readme-sigma-ten.vercel.app/api?username=maitybikash&show_icons=true&count_private=true&theme=highcontrast&hide_border=true"
-    height="165" />
+    height="165"
+  />
 
   <img
-    src="https://github-readme-sigma-ten.vercel.app/api/top-langs/?username=maitybikash&layout=compact&count_private=true&theme=highcontrast&hide_border=true"
-    height="170" />
+    src="https://github-readme-sigma-ten.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
+    height="170"
+  />
 
-  <img 
-    src="https://streak-stats.demolab.com?user=maitybikash&count_private=true&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <br/><br/>
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
 
 <br/>
