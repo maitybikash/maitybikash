@@ -46,16 +46,6 @@
     src="https://github-readme-sigma-ten.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
     height="170"
   />
-
-  <br/><br/>
-
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=maitybikash&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      alt="GitHub Streak"
-    />
-  </a>
 </div>
 
 <br/>
