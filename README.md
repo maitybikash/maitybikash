@@ -48,8 +48,6 @@
   />
 </div>
 
-<br/>
-
 <!-- Contact Me -->
 <div align="center">
   <p><b>☎️ Contact Me</b></p>
