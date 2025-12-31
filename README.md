@@ -3,8 +3,6 @@
   <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="350" />
 </div>
 
-<br/>
-
 <!-- About Me -->
 <div align="center">
   <p><b>🧑‍💻 About Me</b></p>
@@ -14,8 +12,6 @@
     I love clean code, scalable systems, and premium UI/UX.
   </p>
 </div>
-
-<br/>
 
 <!-- Tech Stack -->
 <div align="center">
@@ -31,8 +27,6 @@
   <img src="https://img.shields.io/badge/Docker-46A2F1?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
-<br/>
-
 <!-- GitHub Stats -->
 <div align="center">
   <p><b>📊 GitHub Stats</b></p>
@@ -47,8 +41,6 @@
     height="165"
   />
 </div>
-
-<br/>
 
 <!-- Contact Me -->
 <div align="center">
