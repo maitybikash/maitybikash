@@ -15,8 +15,6 @@
   </p>
 </div>
 
-<br/>
-
 <!-- Tech Stack -->
 <div align="center">
   <p><b>💻 Tech Stack</b></p>
@@ -42,8 +40,6 @@
     height="165"
   />
 </div>
-
-<br/>
 
 <!-- Contact Me -->
 <div align="center">
