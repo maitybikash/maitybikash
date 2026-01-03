@@ -38,15 +38,12 @@
   <p><b>📊 GitHub Stats</b></p>
 
   <img
-    src="https://github-readme-sigma-ten.vercel.app/api?username=maitybikash&show_icons=true&count_private=true&theme=highcontrast&hide_border=true"
-    height="165"
-  />
-
-  <img
     src="https://github-readme-sigma-ten.vercel.app/api/top-langs/?username=maitybikash&layout=compact&theme=highcontrast&hide_border=true"
     height="165"
   />
 </div>
+
+<br/>
 
 <!-- Contact Me -->
 <div align="center">
