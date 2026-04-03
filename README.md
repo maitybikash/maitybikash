@@ -40,20 +40,3 @@
     height="165"
   />
 </div>
-
-<!-- Contact Me -->
-<div align="center">
-  <p><b>☎️ Contact Me</b></p>
-
-  <a href="https://telegram.me/DARKL0RD_TG">
-    <img src="https://img.shields.io/badge/Telegram-1877F2?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/maity_bikash__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://facebook.com/maitybikashofficial">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-</div>
